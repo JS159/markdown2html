@@ -26,6 +26,8 @@ pip install -r requirements.txt
 
 ```bash
 python main.py --gui
+# 或者
+python gui.py
 ```
 
 或直接运行（默认为图形界面模式）：
@@ -39,13 +41,6 @@ python main.py
 ```bash
 python main.py --cli [其他参数]
 ```
-
-## 示例文件
-
-示例 Markdown 文件位于 `example` 目录下：
-
-- `mermaid_test.md` - 展示 Mermaid 图表功能
-- `theme_showcase.md` - 展示不同主题效果
 
 ## 项目结构
 
