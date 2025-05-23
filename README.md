@@ -14,15 +14,6 @@
 - **Mermaid 图表支持**：自动解析 Mermaid 格式，转换成图片
 - **代码高亮**：支持代码块分析和语法高亮
 
-### LLM 集成功能
-
-- **LLM 配置界面**：在 GUI 中提供 LLM API 配置选项
-  - API Base URL 设置
-  - API Key 设置（安全掩码显示）
-  - 默认模型选择
-- **配置持久化**：配置信息保存在 `gui_settings.json` 文件中
-- **环境变量集成**：自动设置必要的环境变量（OPENAI_API_BASE_URL, OPENAI_API_KEY, OPENAI_MODEL）
-
 ## 使用说明
 
 ### 安装依赖
