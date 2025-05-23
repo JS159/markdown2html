@@ -1,0 +1,5 @@
+markdown>=3.0.0
+Pygments>=2.0.0
+Pillow>=8.0.0
+networkx>=2.5
+matplotlib>=3.0.0 
